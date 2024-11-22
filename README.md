@@ -14,7 +14,7 @@ El modelo SIR es ampliamente utilizado para estudiar la propagación de enfermed
 ## Contenido del Repositorio
 
 - `ModeloSIR.ipynb`: Implementación principal del modelo SIR y análisis de estabilidad.
-- `data/`: Carpeta que contiene los datos utilizados para el análisis, incluyendo:
+- `archive/`: Carpeta que contiene los datos utilizados para el análisis, incluyendo:
   - `covid_jpn_prefecture.csv`: Datos de COVID-19 por prefectura en Japón.
 - `README.md`: Descripción del proyecto y cómo usarlo.
 
